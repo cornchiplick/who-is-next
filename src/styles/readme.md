@@ -1,0 +1,1 @@
+- globalstyle.tsx
